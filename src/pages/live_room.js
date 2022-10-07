@@ -7,7 +7,7 @@ import Cards4 from '../components/liveroomcards/liveCard4';
   
 const LiveRoom = () => {
   return (
-    <div>
+    <div className="bg-dark">
       <p></p>
       <Cards></Cards>
       <p></p>

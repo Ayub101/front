@@ -6,7 +6,7 @@ import Cards4 from '../components/videocards/videoCard4';
 
 const Video_Book = () => {
   return (
-    <div>
+    <div className="bg-dark">
       <Cards></Cards>
       <p></p>
       <Cards2></Cards2>

@@ -14,7 +14,7 @@ const Navbar = () => {
             Audio Book
           </NavLink>
           <NavLink to="/videobook" activeStyle>
-            Video Book
+            podcasts
           </NavLink>
           <NavLink to="/liveroom" activeStyle>
             Live Rooms

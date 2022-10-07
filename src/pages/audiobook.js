@@ -6,7 +6,7 @@ import Cards4 from "../components/audiocards/audioCard4";
 
 const Audio_Book = () => {
 return (
-	<div>
+	<div className="bg-dark p-auto">
 	<p></p>
 	<Cards></Cards>
 	<p></p>

@@ -1,5 +1,5 @@
 body{
-    background: radial-gradient(#e5e5e5, #ffff, #e5e5e5) ;
+    background: radial-gradient(#000000, rgb(0, 0, 0), #000000) ;
 }
 
 .card{
@@ -7,7 +7,7 @@ body{
 }
 
 .card:hover{
-    box-shadow: 5px 10px 20px 1px rgba(0,0,0,0.253) !important;
+    box-shadow: 5px 10px 20px 1px rgba(255,255,255,0.5) !important;
 }
 
 .card-body{
